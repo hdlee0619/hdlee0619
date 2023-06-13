@@ -14,8 +14,9 @@ Stacks 🛠️
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/styled-components-DB7093?style=for-the-badge&logo=styled-components%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=Styledcomponents&logoColor=white">
 </p>
 
 <p>  
