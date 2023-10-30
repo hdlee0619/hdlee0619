@@ -1,6 +1,6 @@
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=Waving&height=210&width=300&text=Hyeondong's%20GitHub%20&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=d1d1d1&desc=Welcome!&descAlignY=20&descAlign=27&color=b3d491)
+![waving](https://capsule-render.vercel.app/api?type=Waving&height=210&width=300&text=Hyeondong's%20GitHub%20&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=d1d1d1&desc=Welcome!&descAlignY=20&descAlign=27&color=0fbfffff)
 
 
 <h2>
