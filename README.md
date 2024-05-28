@@ -61,6 +61,6 @@
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdlee0619&layout=compact&hide=html,css&langs_count=6&card_width=448)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hdlee0619&layout=compact&hide=html,css&langs_count=6&card_width=448&theme=react)
 
 </div>
