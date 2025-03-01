@@ -1,5 +1,3 @@
-<div align="center">
-
 ![waving](https://capsule-render.vercel.app/api?type=Waving&height=210&width=300&text=Hyeondong's%20GitHub%20&fontSize=50&fontAlign=50&fontAlignY=40&fontColor=ffffff&desc=Welcome!&descAlignY=20&descAlign=27&color=0fbfffff)
 
 ## 🚀 Tech Stack
